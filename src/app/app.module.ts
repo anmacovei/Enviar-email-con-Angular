@@ -32,7 +32,7 @@ import {
 } from "ng-gapi";
 
 let gapiClientConfig: NgGapiClientConfig = {
-  client_id: "395684135333-7cs6mldgfgr2q531bu51el0j4hdosv0s.apps.googleusercontent.com",
+  client_id: "1032960701062-amk9bhc883qbbn70hop1bbg47qha9je4.apps.googleusercontent.com",
   discoveryDocs: ["https://analyticsreporting.googleapis.com/$discovery/rest?version=v4"],
   ux_mode: "popup",
   redirect_uri: "http://localhost:4200/loged",
